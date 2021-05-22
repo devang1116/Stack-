@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Stack_list_implementation
+//  Stack_list_implementatio
 //
 //  Created by Devang Papinwar on 19/02/21.
 //
